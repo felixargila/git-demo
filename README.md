@@ -2,9 +2,7 @@
 
 This is the first file in the repo.
 
-## Ipsum Below
+## Website contents
 
-Cualquier texto para probar
-
-Más texto todavía
+1. I ndex.html
 
